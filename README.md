@@ -1,3 +1,9 @@
+COMPANY NAME:CODETECH IT SOLUTIONS
+NAME: SINGAM NARESH
+INTERN ID:CT12RIT
+DOMAIN NAME:DATASCIENCE
+DURATION:2 MONTHS
+
 # Data-Pipeline-Development
  A scalable pipeline for ingesting, processing, transforming, and storing data efficiently.
  
