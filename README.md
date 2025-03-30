@@ -58,3 +58,8 @@ Conclusion
 This Data Pipeline Development project is a crucial component in any data-driven system, ensuring smooth and automated data flow from source to destination. It enhances data quality, consistency, and availability while optimizing performance. Whether for business intelligence, AI/ML, or reporting**, a robust data pipeline is essential for making informed decisions.  
 
 This repository contains code, documentation, and implementation details to build a production-ready, scalable data pipeline.
+
+Outputs
+
+![Image](https://github.com/user-attachments/assets/06ac023e-978b-4d92-8cfa-5d23c68718cb)
+![Image](https://github.com/user-attachments/assets/38aec682-684e-4750-aa76-73d3a0097622)
